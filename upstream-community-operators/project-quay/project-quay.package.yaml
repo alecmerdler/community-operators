@@ -1,5 +1,5 @@
 channels:
-- currentCSV: project-quay.v1.1.2
+- currentCSV: quay-operator.v2.0.0
   name: stable
 defaultChannel: stable
 packageName: project-quay
